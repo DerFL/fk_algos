@@ -1,7 +1,6 @@
 ## Repo with algo attempts from leetcode
 
-### powered by *LeetCode with labuladong* extension
-
+### Powered by [*LeetCode with labuladong*](https://marketplace.visualstudio.com/items?itemName=labuladong.leetcode-helper&ssr=false#overview)
 
 <sub><sup>Maybe I will enjoy DSA one day...</sup></sub>
 
